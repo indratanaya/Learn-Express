@@ -1,0 +1,23 @@
+{
+  "name": "learn-express",
+  "version": "1.0.0",
+  "description": "A simple app of Express for learning purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indratanaya/Learn-Express.git"
+  },
+  "keywords": [
+    "Express",
+    "Backend"
+  ],
+  "author": "Indra Tanaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indratanaya/Learn-Express/issues"
+  },
+  "homepage": "https://github.com/indratanaya/Learn-Express#readme"
+}
